@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @cubewin07
 - 👀 I’m interested in sports, chess, and Valorant 
-- 🌱 I’m currently learning Software engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+
+* The people who get good are the ones who keep showing up when they get stuck  *
 
 <!---
 cubewin07/cubewin07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
