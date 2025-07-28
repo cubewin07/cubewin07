@@ -6,7 +6,18 @@
   
 ![Night city](https://i.pinimg.com/originals/8c/f6/06/8cf60608f95bfae20a9e78884e1a33cb.gif)
 
-<!---
-cubewin07/cubewin07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📊 GitHub Stats
+![Thang's GitHub stats](https://github-readme-stats.vercel.app/api?username=cubewin07&show_icons=true&theme=tokyonight)
+
+## 🧠 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cubewin07&layout=compact)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=cubewin07&theme=tokyonight)
+
+## 🛠 Skills
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+</p>
