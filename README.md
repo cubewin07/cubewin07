@@ -7,42 +7,31 @@
 
 <table>
   <tr>
-    <td>
+    <td align="center" width="50%">
       <h2>📊 GitHub Stats</h2>
       <img src="https://github-readme-stats.vercel.app/api?username=cubewin07&show_icons=true&theme=tokyonight" />
     </td>
-    <td>
+    <td align="center" width="50%">
       <h2>🧠 Top Languages</h2>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cubewin07&layout=compact&theme=tokyonight" />
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <h2>🔥 GitHub Streak</h2>
       <img src="https://streak-stats.demolab.com?user=cubewin07&theme=tokyonight" />
     </td>
-   <h2>🛠 Skills</h2>
-<p align="left">
-  <!-- HTML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40"/>
-
-  <!-- CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40"/>
-
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-
-  <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40"/>
-
-  <!-- Spring -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40"/>
-
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40"/>
-
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-</p>
+    <td align="center">
+      <h2>🛠 Skills</h2>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5" style="margin-right:10px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3" style="margin-right:10px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" style="margin-right:10px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" title="Java" style="margin-right:10px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" title="Spring Boot" style="margin-right:10px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" title="React" style="margin-right:10px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL" style="margin-right:10px;"/>
+      </p>
+    </td>
   </tr>
 </table>
