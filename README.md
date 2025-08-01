@@ -15,7 +15,7 @@
     </td>
     <td align="center">
       <h3>🧠 Top Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cubewin07&layout=compact&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cubewin07&layout=compact&theme=tokyonight&hide=css" />
     </td>
   </tr>
   <tr>
