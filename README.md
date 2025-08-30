@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @cubewin07  
-- 👀 I’m interested in sports, chess, and Valorant  
+- 👀 I’m interested in sports, chess, and coding  
 
 > *The people who get good are the ones who keep showing up when they get stuck*
 
