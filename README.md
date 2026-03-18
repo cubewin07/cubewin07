@@ -1,46 +1,71 @@
-## Hi, I’m Le Tan Thang (Brian Le) 👋
+# Hi, I'm Brian Le (Le Tan Thang) 👋
 
-I’m a student with a strong interest in software engineering and computer science.  
-This GitHub contains my personal projects and learning work.
+Self-driven software developer based in Hamilton, New Zealand.  
+Completing the University of Waikato Foundation Programme (March–June 2026), then beginning a Bachelor of Computing and Mathematical Sciences (Computer Science) at the University of Waikato in June 2026.
 
-- Programming experience with **Java** and **JavaScript**
-- Experience building backend services with **Spring Boot**
-- Familiar with core computer science and programming fundamentals
-- Currently strengthening my foundations for university study (The University of Waikato)
+I build full-stack applications and have a strong interest in data engineering, AI tooling, and backend systems. I learn by building real things and shipping them to production.
 
 ---
 
-## 🛠 Technical Skills
+## 🚀 Featured Project — Movie Explorer
 
-### Languages
-- Java  
-- JavaScript  
-- C++ (competitive programming)  
-- SQL  
+A production-deployed social platform for discovering movies, managing watchlists, and real-time messaging.
 
-### Backend & Data
-- Spring Boot  
-- JPA / Hibernate  
-- PostgreSQL  
+**Live:** [cubewin07.github.io/movie-explorer](https://cubewin07.github.io/movie-explorer)
 
-### Caching & Monitoring
-- Redis (Upstash-hosted)  
-- Caffeine  
-- Prometheus  
-- Grafana  
+**What it does:**
+- Real-time chat via WebSockets (STOMP) with unread tracking and notifications
+- JWT authentication with strict resource membership enforcement
+- Multi-level caching: Upstash Redis + Caffeine with Kryo serialization
+- Observability: Prometheus + Spring Boot Actuator metrics
+- Admin dashboard with role management and system stats
 
-### Frontend
-- HTML  
-- CSS  
-- JavaScript  
-- React  
-- GSAP / Framer Motion  
-
-### Tools & IDEs
-- IntelliJ IDEA  
-- VS Code  
-- Trae  
+**Stack:** React 19 · Spring Boot 3 · PostgreSQL (Supabase) · Redis (Upstash) · Flyway · TanStack Query · TailwindCSS · Framer Motion
 
 ---
 
-I’m continuously improving my skills through self-study and practical projects.
+## 🛠 Skills
+
+| | |
+|---|---|
+| **Languages** | Java |
+| | JavaScript |
+| | SQL |
+| | C++ |
+| **Backend** | Spring Boot |
+| | Spring Security (JWT) |
+| | JPA / Hibernate |
+| | REST API Design |
+| | WebSockets (STOMP) |
+| | Flyway |
+| **Frontend** | React |
+| | TanStack Query |
+| | TailwindCSS |
+| | Framer Motion |
+| | HTML / CSS |
+| **Databases & Caching** | PostgreSQL |
+| | Redis |
+| | Caffeine |
+| **DevOps & Observability** | Git / GitHub |
+| | GitHub Actions (CI/CD) |
+| | Prometheus |
+| | Spring Boot Actuator |
+| **Cloud & Deployment** | Render |
+| | Supabase |
+| | Upstash |
+| **Currently Focusing On** | Data Structures & Algorithms |
+| | Database Schema Design |
+| | Backend System Design |
+---
+
+## 📚 Education
+
+🎓 **Bachelor of Computing and Mathematical Sciences (Computer Science)**  
+University of Waikato — Starting June 2026
+
+📄 **University of Waikato Foundation Programme**  
+March 2026 – June 2026
+
+---
+
+📫 tanthang071208@gmail.com · [github.com/cubewin07](https://github.com/cubewin07)
