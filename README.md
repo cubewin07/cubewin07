@@ -13,9 +13,9 @@ I focus on backend systems, data engineering, and high-performance application a
 *Generated on-the-fly by my [`customReadmeSVG`](https://github.com/cubewin07/customReadmeSVG) engine on Netlify Edge.*
 
 <p align="center">
-  <img src="https://lucent-sprite-e50312.netlify.app/cubewin07/stats?theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://lucent-sprite-e50312.netlify.app/cubewin07/stats?version=v1&layout=ring&theme=tokyonight" alt="GitHub Stats" width="48%" />
   &nbsp;
-  <img src="https://lucent-sprite-e50312.netlify.app/cubewin07/languages?theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://lucent-sprite-e50312.netlify.app/cubewin07/languages?version=v1&layout=polyglot&langs_count=12&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
